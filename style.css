@@ -195,7 +195,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(assets/background.jpg) no-repeat;
+    background: url(https://raw.githubusercontent.com/RussulR4R/coffe/main/assets/background.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
